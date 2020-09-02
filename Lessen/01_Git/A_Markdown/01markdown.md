@@ -4,6 +4,7 @@ sort: 1
 
 # Markdown Elements
 
+ik doe een test in het **vet** door 2 sterren te zetten en in het _schuin_.
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
