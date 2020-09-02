@@ -4,6 +4,8 @@ sort: 1
 
 # Markdown Elements
 
+ik doe een test in het **vet** door 2 sterren te zetten en in het _schuin_.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
@@ -39,6 +41,7 @@ This is a code block following a header.
 ##### Header 5
 
 1. This is an ordered list following a header.
+1. test
 2. This is an ordered list following a header.
 3. This is an ordered list following a header.
 
