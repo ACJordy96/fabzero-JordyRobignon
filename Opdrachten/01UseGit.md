@@ -43,6 +43,7 @@ In de buurt ken ik ook Astertechnics die ik help om hun 3d printers in werking t
 En een goede vriend die een grote lasercutter heeft daar kan ik altijd terecht voor de men laatste DIY werkjes of plannen van RC vliegtuigen
 
 Tijdens men vrije tijd ga ik wel graag eens p cafe met vriendne om daar te genieten van een goed babbel en coctail of mocktail
+
 ![cocktailbar]({{ site.baseurl }}/assets/cocktailbar.jpg)
 
 
