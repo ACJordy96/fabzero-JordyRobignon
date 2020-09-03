@@ -2,6 +2,7 @@
 # opdracht01
 ## voorstellen
 **Naam**: Jordy Robignon, 24 Jaar
+
 oudere foto ;) (2015)
 ![profielfoto met Henk](https://scontent.fbru2-1.fna.fbcdn.net/v/t1.0-9/11026013_823808504365930_918603454044233510_n.jpg?_nc_cat=106&_nc_sid=174925&_nc_ohc=fJjavXjjEdYAX8aQ4Bm&_nc_ht=scontent.fbru2-1.fna&oh=ede0d6b3f26af0081ba1fb422bb30ab6&oe=5F763785)
 
@@ -33,10 +34,16 @@ oudere foto ;) (2015)
 3D printen, Lasercutten, RC vliegen met drones en zelfgebouwde vliegtuigen, Gamen
 Kampen en workshops geven bij AFYA en Astertechnics, CNC machines proberen bouwen
 
-**Hoe kan ik mezelf het best beschrijven**:
+## Hoe kan ik mezelf het best beschrijven
 
 Zeer technisch opgevoed, kan goed overweg met de computer. Nog steeds leergierig, de motivatie om steeds bij te leren is heel belangrijk. Men Baas op de TEchnische diensd zei ooit tegen me " jouw kennis en wijsheid is een cirkel" en hoe groter jij je cirkel maakt hoe meer wijzer en meer kennis je zal hebben. Klopt dit? weet ik niet maar kan het wel proberen.
 
+Zelf hou ik me het liefste bezig met men werk daar kan ik al genoeg technische handelingen doen zoals draaien en frezen, storingen oplossen enzo. Daarna kan ik thuis rustig doen wat ik wil zoals vliegtuigen bouwen en vliegen en 3D printen.
+In de buurt ken ik ook Astertechnics die ik help om hun 3d printers in werking te houden.
+En een goede vriend die een grote lasercutter heeft daar kan ik altijd terecht voor de men laatste DIY werkjes of plannen van RC vliegtuigen
+
+Tijdens men vrije tijd ga ik wel graag eens p cafe met vriendne om daar te genieten van een goed babbel en coctail of mocktail
+![coctailbar]({{ site.baseurl }}/assets/coctailbar)
 
 
 Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
