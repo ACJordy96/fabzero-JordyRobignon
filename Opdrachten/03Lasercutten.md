@@ -23,6 +23,17 @@ zelf kan ik lasercutten bij iemand die ik. om de laser correct te gebruiken heb 
 **RDworksV8** hierin steek ik het dxf bestand en kan deze zo naar de lasercutter sturen
 
 ##**Opdracht**
+
 het maken van een spaarpot met een vorm van BV een dier
+
+1. afbeelding in inktscape -> aanpassen naar vector
+2. afbeelding en box exporteren in DXF formaat
+3. dxf van afbeelding en box in autocad steken
+
+![autocasbox]({{ site.baseurl }}/assets/autocadbox.jpg)
+
+4. de gecombineerde DXF opslaan en importeren in **RDworksV8**
+
+![rdworks]({{ site.baseurl }}/assets/rdworks.jpg)
 
 
