@@ -1,15 +1,28 @@
-## Materialen en Design
-
+## Intro Lasercutten
 ## **Intro**
+Uitleg mogelijkheden Lasercutten
+* utleg "Kerf"
+* uitleg machine opbouw
+* materialen die wel en niet laserbaar zijn
+* inktscape
 
-De les materialen en design gingen in mijn ogen ooral aover constructief denken bij het ontwerpen van een voorwerp
-belangerijke puntjes zijn:
-* een concept
-* losse ideen
-* welk gebruik van materiaal
-* productieproces
-* 2D en 3D gebruik van bepaalde programma's of websites
+## **Porgramma's**
 
-**opmerking:** deze les kon ik zelf LIVE niet volgen
+#in de les
+In de les kreeg men uitleg over het programma **INKTSCAPE**
+alhoewel het een goed open source programma is. omdat het converteren van een afbeelding naar vector handig kan zijn
+het gebruik van een cliser om 3d modellen om te zetten naar 2D lagen die gelasercut kan worden
 
-Lesvoorbereiding voor volgende les
+#thuis gebruik
+thuis gebruik ik nog steeds liever het programma Autocad samen met Fusion360.
+en als ik een afbeelding in vector zou nodig hebben zou ik dan wel Inktscape gebruiken om de afbeelding te kunnen converteren
+om daarna de geconverteerde afbeelding te plaatsen in autocad om daar verder te bewerken tot een geheel dxf bestand
+
+#lasercutting programma
+zelf kan ik lasercutten bij iemand die ik. om de laser correct te gebruiken heb ik het programma nodig die er bij zat
+**RDworksV8** hierin steek ik het dxf bestand en kan deze zo naar de lasercutter sturen
+
+##**Opdracht**
+het maken van een spaarpot met een vorm van BV een dier
+
+
