@@ -29,6 +29,8 @@ het maken van een 2D papier naar een 3D opbject
 2. de zeides van de driehoekjesaan elkaar kleven
 3. het vormen van een kommetje
 
+![bloempot]({{ site.baseurl }}/assets/bloempot.jpg)
+
 ##**eindproduct**
 het bekomen van een mooie bloempot gemaakt uit beton
 
