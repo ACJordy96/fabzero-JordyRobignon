@@ -7,10 +7,11 @@
  
  ## **les**
  
- ### **Wet van ohm**
- 1 woord HERHALING
+  ### **Wet van ohm**
  
- ![ohm]({{ site.baseurl }}/assets/ohm.jpg)
+  1 woord HERHALING
+ 
+   ![ohm]({{ site.baseurl }}/assets/ohm.jpg)
 
  
  
