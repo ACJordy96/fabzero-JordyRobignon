@@ -21,4 +21,3 @@
 Ontwerpen van balpenhouder
 Programma: Fusion 360
 3D printen: multicollor met ultimaker 2+
-
