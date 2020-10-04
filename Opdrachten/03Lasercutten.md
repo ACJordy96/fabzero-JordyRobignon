@@ -32,11 +32,11 @@ het maken van een spaarpot met een vorm van BV een dier
 
 3. dxf van afbeelding en box in autocad steken
 
-![autocadbox]( {{ site.baseurl }}/assets/autocadbox.jpg)
+![autocadbox]( {{ site.baseurl }}/assets/autocadbox.png)
 
 
 4. de gecombineerde DXF opslaan en importeren in **RDworksV8**
 
-![rdworks]( {{ site.baseurl }}/assets/rdworks.jpg)
+![rdworks]( {{ site.baseurl }}/assets/rdworks.png)
 
 
