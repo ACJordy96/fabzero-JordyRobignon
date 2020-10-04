@@ -34,7 +34,7 @@ het maken van een 2D papier naar een 3D opbject
 ##**eindproduct**
 het bekomen van een mooie bloempot gemaakt uit beton
 
-![Pintrest concreet mold](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F794744665480846110%2F&psig=AOvVaw33wrXq-MOh9U-si22Nf9Gc&ust=1600852891100000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDHt_K3_OsCFQAAAAAdAAAAABA)
+![Pintrest concreet mold](https://i.pinimg.com/564x/26/f9/20/26f9204e2ad56929003a061f773b511a.jpg)
 
 **Link**
 
